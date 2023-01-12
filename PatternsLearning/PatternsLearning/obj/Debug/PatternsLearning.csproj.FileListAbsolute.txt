@@ -1,0 +1,8 @@
+E:\Projects\C#\PatternsLearning\PatternsLearning\bin\Debug\PatternsLearning.exe.config
+E:\Projects\C#\PatternsLearning\PatternsLearning\bin\Debug\PatternsLearning.exe
+E:\Projects\C#\PatternsLearning\PatternsLearning\bin\Debug\PatternsLearning.pdb
+E:\Projects\C#\PatternsLearning\PatternsLearning\obj\Debug\PatternsLearning.csproj.AssemblyReference.cache
+E:\Projects\C#\PatternsLearning\PatternsLearning\obj\Debug\PatternsLearning.csproj.SuggestedBindingRedirects.cache
+E:\Projects\C#\PatternsLearning\PatternsLearning\obj\Debug\PatternsLearning.csproj.CoreCompileInputs.cache
+E:\Projects\C#\PatternsLearning\PatternsLearning\obj\Debug\PatternsLearning.exe
+E:\Projects\C#\PatternsLearning\PatternsLearning\obj\Debug\PatternsLearning.pdb
